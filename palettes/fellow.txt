@@ -1,0 +1,16 @@
+#0f1f2f
+#9f4f6f
+#6f9f4f
+#9f6f4f
+#4f6f9f
+#6f4f9f
+#4f9f6f
+#6f7f8f
+#3f4f5f
+#cf7f9f
+#9fcf7f
+#cf9f7f
+#7f9fcf
+#9f7fcf
+#7fcf9f
+#cfdfef
