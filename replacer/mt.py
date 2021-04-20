@@ -1,5 +1,5 @@
 from urllib.parse import quote_plus
-from replacer import Replacer
+from .replacer import Replacer
 
 class MtReplacer(Replacer):
     def replace(self):

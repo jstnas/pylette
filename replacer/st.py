@@ -1,4 +1,4 @@
-from replacer import Replacer
+from .replacer import Replacer
 
 class StReplacer(Replacer):
     def replace(self):

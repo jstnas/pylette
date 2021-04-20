@@ -1,4 +1,4 @@
-from replacer import Replacer
+from .replacer import Replacer
 
 class TabbedReplacer(Replacer):
     def replace(self):

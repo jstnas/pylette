@@ -1,4 +1,4 @@
-from replacer import Replacer
+from .replacer import Replacer
 
 class SlockReplacer(Replacer):
     def replace(self):
